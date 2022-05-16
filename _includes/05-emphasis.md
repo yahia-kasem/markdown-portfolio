@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# skils:
+- Data Structures
+- Software Quality Assurance
+- Algorithms
+- Software Design Patterns
+- Web Services API
+
+this is my *portfolio* for the __albonyan almarsos__.
